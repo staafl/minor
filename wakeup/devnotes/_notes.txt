@@ -1,0 +1,28 @@
+todo:
+    --> add readme <!DOCTYPE>
+    - #warnings
+    - todos in readme
+    --> clean up sched repo
+    - polish readme
+        - hyperlink
+        - sched.ini example
+        - nircmd
+    - find a simple way to turn headset off
+    - ilmerge coreaudioapi.dll
+    - does it work on XP?
+    - any way to force audio through speakers ?
+        http://stackoverflow.com/questions/3535870/send-audio-output-to-all-speaker-devices
+        
+    - camouflage process to avoid termination
+        - "taskmgr"
+    - protect from taskkill
+        http://stackoverflow.com/questions/11099668/unkillable-process?lq=1
+        
+    - hide process from task manager?
+    - personal message
+    
+    - dissociate from sched.exe
+    - tray app?
+    - follow up alarm?
+    - block ctrl+shift+esc?
+    - drop into another desktop?

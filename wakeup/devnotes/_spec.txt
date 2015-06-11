@@ -1,0 +1,6 @@
+on ran - play sound and launch form
+on form focused - start 2 minute timer and 5 sec timer
+
+notes 
+    - play sound through speakers
+    - turn volume up
